@@ -24,7 +24,7 @@ Operating Systems: Linux administration
 Version Control Systems: Git
 
 Problem-solving and analytical skills
-
+ 
 ## Education:
 Belarusian State University of Informatics and Radioelectronics (2021-2025), Full-time
 
