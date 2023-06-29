@@ -23,7 +23,7 @@ None (currently pursuing education)
 Code example:
 ----------------------------------------------------
 Equal Sides Of An Array (Java)
-
+```
   public class Kata {
     public static int findEvenIndex(int[] arr) {
       int n = arr.length;
@@ -48,7 +48,7 @@ Equal Sides Of An Array (Java)
       return -1;
     }
   }
-
+```
 Projects:
 ----------------------------------------------------
 GitHub: https://github.com/SpanDuy/Notes.git
