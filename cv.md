@@ -22,30 +22,30 @@ None (currently pursuing education)
 
 Code example:
 ----------------------------------------------------
-public class Kata {
-  public static int findEvenIndex(int[] arr) {
-    int n = arr.length;
-    int current;
-    for (int i = 0; i < n; i++) {
+  public class Kata {
+    public static int findEvenIndex(int[] arr) {
+      int n = arr.length;
+      int current;
+      for (int i = 0; i < n; i++) {
       
-      int before = 0;
-      int after = 0;
+        int before = 0;
+        int after = 0;
       
-      for (int j = 0; j <= i; j++) {
-        before += arr[j];
+        for (int j = 0; j <= i; j++) {
+          before += arr[j];
+        }
+      
+        for (int j = i; j < n; j++) {
+          after += arr[j];
+        }
+      
+        if (before == after) {
+          return i;
+        }
       }
-      
-      for (int j = i; j < n; j++) {
-        after += arr[j];
-      }
-      
-      if (before == after) {
-        return i;
-      }
+      return -1;
     }
-    return -1;
   }
-}
 
 Projects:
 ----------------------------------------------------
