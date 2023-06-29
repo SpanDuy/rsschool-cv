@@ -1,9 +1,8 @@
 ![mountains](https://sun9-73.userapi.com/impg/VT_PJsmH9wEdu6QsudIu1jM43WdnEeEEq-0eWw/-AKxFAC_ao0.jpg?size=2560x1438&quality=96&sign=e25ee85839ca720d0181747a1717a82d&type=album)
 
-**Name:** 
+###**Name:** 
 Vladislav Kipyatkov
 
----
 **Email:** 
 hdhrbux@gmail.com
 
@@ -11,11 +10,11 @@ hdhrbux@gmail.com
 @SpanDuy
 
 ---
-**Objective**
+###**Objective**
 My goal is to develop a career in the IT field. I am diligent and persistent, and I enjoy learning new things.
 
 ---
-**Skills:**
+###**Skills:**
 Programming Languages: C/C++, Assembler, Java, C# (.NET), JavaScript/TypeScript (React)
 Frameworks: Spring Boot
 Operating Systems: Linux administration
@@ -23,14 +22,14 @@ Version Control Systems: Git
 Problem-solving and analytical skills
 
 ---
-**Education:**
+###**Education:**
 Belarusian State University of Informatics and Radioelectronics (2021-2025), Full-time
 Major: Computer Science and Information Systems
 Work Experience:
 None (currently pursuing education)
 
 ---
-**Code example:**
+###**Code example:**
 Equal Sides Of An Array (Java)
 ```
   public class Kata {
@@ -59,9 +58,9 @@ Equal Sides Of An Array (Java)
   }
 ```
 ---
-**Projects:**
+###**Projects:**
 GitHub: https://github.com/SpanDuy/Notes.git
 
 ---
-**Language Proficiency:**
+###**Language Proficiency:**
 English: Pre-Intermediate
